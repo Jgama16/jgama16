@@ -9,7 +9,7 @@
     <div>
         <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" title="htmls" alt="html" width="40" height="40"/>&nbsp;
         <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
-        <img src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Logo.png" title="JavaSript" alt="JavaSript" width="40" height="40"/>&nbsp;
+        <img src="https://e7.pngegg.com/pngimages/602/440/png-clipart-javascript-open-logo-number-js-angle-text-thumbnail.png" title="JavaSript" alt="JavaSript" width="40" height="40"/>&nbsp;
         <img src="https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail.png" title="github" alt="github" width="40" height="40"/>&nbsp;
         <img src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue-thumbnail.png" title="C++" alt="C++" width="40" height="40"/>&nbsp;
     </div>
