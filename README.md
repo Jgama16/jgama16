@@ -8,10 +8,10 @@
     <h3>Languages and Tools:</h3>
     <div>
         <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" title="htmls" alt="html" width="40" height="40"/>&nbsp;
-        <img src="https://www.flaticon.es/icono-gratis/trofeo_11388361?term=css3&page=1&position=1&origin=search&related_id=11388361" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
-        <img src="https://www.flaticon.es/icono-gratis/js_5968292?term=javascript&page=1&position=4&origin=search&related_id=5968292" title="JavaSript" alt="JavaSript" width="40" height="40"/>&nbsp;
-        <img src="https://www.flaticon.es/icono-gratis/silueta-del-logo-de-github-en-un-cuadrado_38401?term=github&page=1&position=1&origin=search&related_id=38401" title="github" alt="github" width="40" height="40"/>&nbsp;
-        <img src="https://www.flaticon.es/icono-gratis/c-_6132222?term=c&page=1&position=1&origin=search&related_id=6132222" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+        <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+        <img src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Logo.png" title="JavaSript" alt="JavaSript" width="40" height="40"/>&nbsp;
+        <img src="https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail.png" title="github" alt="github" width="40" height="40"/>&nbsp;
+        <img src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue-thumbnail.png" title="C++" alt="C++" width="40" height="40"/>&nbsp;
     </div>
 
 </div>
