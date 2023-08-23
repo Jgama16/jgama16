@@ -3,7 +3,7 @@
     <h1 align="center">Hi there 👋, I'm jgama16</h1>
     <h2 align="center">A passionate web developer from colombia, I'm programing student and I'd like to learn the different programing languages </h2>
 </div>
-___
+---
 <div id="left">
     <h3>Languages and Tools:</h3>
     <div>
