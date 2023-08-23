@@ -7,7 +7,7 @@
 <div id="left">
     <h3>Languages and Tools:</h3>
     <div>
-        <img src="https://e7.pngegg.com/pngimages/241/797/png-clipart-cascading-style-sheets-css3-javascript-logo-world-wide-web-blue-angle.png" title="htmls" alt="html" width="40" height="40"/>&nbsp;
+        <img src="https://www.flaticon.es/icono-gratis/html-5_5968267?term=html&page=1&position=4&origin=tag&related_id=5968267" title="htmls" alt="html" width="40" height="40"/>&nbsp;
         <img src="https://www.flaticon.es/icono-gratis/trofeo_11388361?term=css3&page=1&position=1&origin=search&related_id=11388361" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
         <img src="https://www.flaticon.es/icono-gratis/js_5968292?term=javascript&page=1&position=4&origin=search&related_id=5968292" title="JavaSript" alt="JavaSript" width="40" height="40"/>&nbsp;
         <img src="https://www.flaticon.es/icono-gratis/silueta-del-logo-de-github-en-un-cuadrado_38401?term=github&page=1&position=1&origin=search&related_id=38401" title="github" alt="github" width="40" height="40"/>&nbsp;
