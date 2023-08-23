@@ -3,9 +3,8 @@
     <h1 align="center">Hi there 👋, I'm jgama16</h1>
     <h2 align="center">A passionate web developer from colombia, I'm programing student and I'd like to learn the different programing languages </h2>
 </div>
----
+
 <div id="left">
-    ---
     <h3>Languages and Tools:</h3>
     <div>
         <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" title="htmls" alt="html" width="40" height="40"/>&nbsp;
