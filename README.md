@@ -5,6 +5,7 @@
 </div>
 ---
 <div id="left">
+    ---
     <h3>Languages and Tools:</h3>
     <div>
         <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" title="htmls" alt="html" width="40" height="40"/>&nbsp;
